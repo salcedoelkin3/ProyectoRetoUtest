@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="como estudiante quiero crear un nuevo usuario para registrarme en la pagina utest y verificar el mensaje" skipped="0" tests="1" time="40.24" timestamp="2022-03-11 09:33:01"><testcase name="Escenario"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+co.com.retotecnico.tasks.Registro.performAs(Registro.java:60)&#13;
+co.com.retotecnico.stepdefinitions.RetoTecnicoStepDefinition.elHaceElRegistroDelFormularioEnLaPaginaUtest(RetoTecnicoStepDefinition.java:30)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

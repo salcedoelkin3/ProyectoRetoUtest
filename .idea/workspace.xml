@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0652344b-f818-4b27-b782-9d383e22e851" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e346a4a33d230cb67dc2db6db9b5f20def0143e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e63c762875d5d2350f99e3505285849f52d4423c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnico/tasks/Registro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnico/tasks/Registro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnico/userinterface/PaginaFormulario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnico/userinterface/PaginaFormulario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/retotecnico.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/retotecnico.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/95a2f0138a3ea782a5d6a0cc66566d8b1337292e4cc16727397031eb92c98fe1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/95a2f0138a3ea782a5d6a0cc66566d8b1337292e4cc16727397031eb92c98fe1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/95a2f0138a3ea782a5d6a0cc66566d8b1337292e4cc16727397031eb92c98fe1.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/95a2f0138a3ea782a5d6a0cc66566d8b1337292e4cc16727397031eb92c98fe1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/95a2f0138a3ea782a5d6a0cc66566d8b1337292e4cc16727397031eb92c98fe1_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/95a2f0138a3ea782a5d6a0cc66566d8b1337292e4cc16727397031eb92c98fe1_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-95a2f0138a3ea782a5d6a0cc66566d8b1337292e4cc16727397031eb92c98fe1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-95a2f0138a3ea782a5d6a0cc66566d8b1337292e4cc16727397031eb92c98fe1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26AOzoZs3uddED7dJRytVfrZyir" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/co/com/retotecnico" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.com.retotecnico.questions" />
+      <recent name="co.com.retotecnico.tasks" />
+      <recent name="co.com.retotecnico.userinterface" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunnerTags" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;co.com.retotecnico.runners.RunnerTags&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerTags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0652344b-f818-4b27-b782-9d383e22e851" name="Changes" comment="" />
+      <created>1646863190062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646863190062</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
